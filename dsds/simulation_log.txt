@@ -1,0 +1,6 @@
+[2025-05-09 17:43:18.093] Packet to 192.168.1.15 forwarded to Interface 5 with priority 3
+[2025-05-09 17:43:18.131] Packet to 192.168.1.1 forwarded to Interface 5 with priority 1
+[2025-05-09 17:43:18.131] HOL Blocking detected for packet to 192.168.1.15 on Interface 5
+[2025-05-09 17:43:18.135] Packet to 10.0.0.5 forwarded to Interface 3 with priority 2
+[2025-05-09 17:43:18.136] Packet to 1234.0.0.1 forwarded to Special Interface with priority 5
+[2025-05-09 17:43:18.136] Packet to 1234.56.1.1 forwarded to High Priority Interface with priority 4
